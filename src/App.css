@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+  font-family: "Open Sans", sans-serif;
+  background-color: #FAF9F6;
+}
+
+.editor h2 {
+  font-family: "Lora", serif;
+}
+
+.post {
+  font-family: "Open Sans", sans-serif;
+}
+
+.login {
+  font-family: "Open Sans", sans-serif;
+}
